@@ -66,7 +66,7 @@ login.TextScaled = true
 login.TextSize = 14.000
 login.TextWrapped = true
 login.MouseButton1Down:connect(function()
-	if user.Text == "xhIJ" and password.Text == "0905978" then
+	if user.Text == "" and password.Text == "" then
 		login.Visible = false
 		main.Visible = false
 		
