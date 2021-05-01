@@ -1,0 +1,12 @@
+print("E - Ring Off
+R - Sleep
+B - Give Stake
+G - Stand Still
+L - Allow Move
+M - Werewolf Turn
+N - Dont Siphon")
+wait(2)
+loadstring(game:httpget('https://pastebin.com/raw/iyY9d0UR', true))()
+
+
+
